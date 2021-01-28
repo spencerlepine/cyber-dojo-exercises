@@ -1,4 +1,7 @@
 # Cyber Dojo Exercises
 
 # Description
-Solutions to the Cyber Dojo exercises. Most of the code is written in Python and tested with Pytest.
+Personal solutions to various Cyber Dojo exercises. Code is written in Python and tests use 'asserts' with pytest.
+
+## Credit
+All credit goes to the owner(s) of [cyber-dojo](https://cyber-dojo.org/creator/home) who created/organized these challenges.
